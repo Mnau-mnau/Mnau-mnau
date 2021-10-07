@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mnau-mnau
 - 👀 I’m interested in FE performance, golang, SVG, watercolour painting and a million other things
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me ...
 
 <!---
 Mnau-mnau/Mnau-mnau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
